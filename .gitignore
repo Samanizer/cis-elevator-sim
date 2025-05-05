@@ -1,0 +1,79 @@
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.la
+*.lai
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+elevator_simulation
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# SFML specific
+*.bin
+*.wav.bak
+*.ogg.bak
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.temp
+
+# Dependency directories
+deps/
+vendor/
+
+# Log files
+*.log
+log/
+logs/
+
+# Other
+.cache/
+.vs/
+.nvim/
+.atom/
+.eclipse/
+Thumbs.db

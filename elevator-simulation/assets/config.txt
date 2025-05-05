@@ -1,0 +1,18 @@
+# Configuration settings for the elevator simulation
+# Number of floors in the building
+num_floors=10
+
+# Number of elevators in the building
+num_elevators=2
+
+# Simulation speed (in milliseconds)
+simulation_speed=1000
+
+# Enable/disable sound effects
+sound_enabled=true
+
+# Elevator capacity
+elevator_capacity=5
+
+# Request handling strategy (e.g., "proximity", "direction")
+request_handling_strategy=proximity
