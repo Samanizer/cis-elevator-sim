@@ -94,7 +94,7 @@ Class:      CIS278
 Professor:  Kamran Iftekhari
 
 ## Demo Video
-A short demo video showcasing the simulation in action can be found at: [Demo Video Link]
+A short demo video showcasing the simulation in action is provided.
 
 
 
